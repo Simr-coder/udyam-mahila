@@ -1,0 +1,114 @@
+ [
+      {
+        "name": "Suman Devi",
+        "gender": "Female",
+        "language": "Hindi",
+        "location": "Uttar Pradesh",
+        "expertise": "Handicrafts & Local Markets",
+        "bio": "Suman has over 12 years of experience guiding rural women in transforming traditional crafts into successful home-based businesses. She mentors in Hindi and focuses on market access for women.",
+        "available_days": ["Monday", "Wednesday"],
+        "contact": "sumanmentor@example.com"
+      },
+      {
+        "name": "Rajesh Kumar",
+        "gender": "Male",
+        "language": "Punjabi",
+        "location": "Punjab",
+        "expertise": "Agriculture & Dairy Farming",
+        "bio": "Rajesh works closely with women in rural Punjab, helping them set up small-scale dairy farms and sustainable agriculture practices. Fluent in Punjabi.",
+        "available_days": ["Tuesday", "Thursday"],
+        "contact": "rajeshmentor@example.com"
+      },
+      {
+        "name": "Meena Rani",
+        "gender": "Female",
+        "language": "Tamil",
+        "location": "Tamil Nadu",
+        "expertise": "Food Processing & Packaging",
+        "bio": "Meena helps women set up micro food-processing units. She speaks Tamil and teaches sustainable methods that are low-cost and efficient.",
+        "available_days": ["Tuesday", "Friday"],
+        "contact": "meenaguide@example.com"
+      },
+      {
+        "name": "Arun Das",
+        "gender": "Male",
+        "language": "Assamese",
+        "location": "Assam",
+        "expertise": "Tea Farming & Local Sales",
+        "bio": "Arun supports women entrepreneurs in Assam by guiding them in tea leaf cultivation and local sales. He communicates in Assamese and understands rural market dynamics.",
+        "available_days": ["Monday", "Thursday"],
+        "contact": "arundas@example.com"
+      },
+      {
+        "name": "Pooja Patel",
+        "gender": "Female",
+        "language": "Gujarati",
+        "location": "Gujarat",
+        "expertise": "Tailoring & Stitching",
+        "bio": "Pooja trains women in tailoring and helps them create home-based stitching businesses. She mentors in Gujarati and focuses on self-employment.",
+        "available_days": ["Wednesday", "Saturday"],
+        "contact": "poojapatel@example.com"
+      },
+      {
+        "name": "Anil Mandal",
+        "gender": "Male",
+        "language": "Odia",
+        "location": "Odisha",
+        "expertise": "Fisheries & Rural Finance",
+        "bio": "Anil guides women in Odisha on how to set up small-scale fisheries and apply for local government support. He mentors in Odia.",
+        "available_days": ["Tuesday", "Friday"],
+        "contact": "anilmandal@example.com"
+      },
+      {
+        "name": "Rukhsana Bano",
+        "gender": "Female",
+        "language": "Urdu",
+        "location": "Bihar",
+        "expertise": "Home-Based Businesses",
+        "bio": "Rukhsana supports women in Urdu and specializes in low-cost home-based businesses like candle-making, soap, and craft items.",
+        "available_days": ["Wednesday", "Saturday"],
+        "contact": "rukhsanab@example.com"
+      },
+      {
+        "name": "Subhendu Ghosh",
+        "gender": "Male",
+        "language": "Bengali",
+        "location": "West Bengal",
+        "expertise": "Organic Farming & Local Selling",
+        "bio": "Subhendu mentors women farmers in Bengali and promotes eco-friendly farming practices, including vegetable and spice cultivation for local haats.",
+        "available_days": ["Monday", "Thursday"],
+        "contact": "subghosh@example.com"
+      },
+      {
+        "name": "Savitri Nair",
+        "gender": "Female",
+        "language": "Malayalam",
+        "location": "Kerala",
+        "expertise": "Ayurvedic Products & Marketing",
+        "bio": "Savitri teaches rural women how to make and sell basic Ayurvedic wellness products using local herbs. She speaks Malayalam fluently.",
+        "available_days": ["Tuesday", "Friday"],
+        "contact": "savitri@example.com"
+      },
+      {
+        "name": "Veeresh Gowda",
+        "gender": "Male",
+        "language": "Kannada",
+        "location": "Karnataka",
+        "expertise": "Handmade Soap & Natural Products",
+        "bio": "Veeresh trains women in making eco-friendly soap, detergent, and self-care items using local ingredients. He mentors in Kannada.",
+        "available_days": ["Monday", "Wednesday"],
+        "contact": "veereshg@example.com"
+      },
+      {
+        "name": "Lakshmi Bai",
+        "gender": "Female",
+        "language": "Telugu",
+        "location": "Andhra Pradesh",
+        "expertise": "Textile Printing & Saree Business",
+        "bio": "Lakshmi teaches women the art of textile design and how to run a local saree or boutique business. She mentors in Telugu.",
+        "available_days": ["Thursday", "Saturday"],
+        "contact": "lakshmib@example.com"
+      }
+    ]
+
+  
