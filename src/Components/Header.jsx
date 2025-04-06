@@ -15,7 +15,7 @@ export default function Header() {
         <div onClick={(e)=>{
           e.stopPropagation()
           setDisplay('')
-        }} className={` md:opacity-0`}>☰</div>
+        }} className={`cursor-pointer md:opacity-0`}>☰</div>
         <nav className={`md:flex gap-4 md:flex-row flex absolute md:static md:bg-transparent bg-[rgb(255,255,255,0.9)] right-0 p-10 md:p-0 top-0  flex-col ${display}`}>
            <Link to='/'> <ul>Home</ul></Link>
            <Link to='/'> <ul>Courses</ul></Link>
